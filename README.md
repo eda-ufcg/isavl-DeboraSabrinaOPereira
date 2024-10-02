@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Débora Sabrina de Oliveira Pereira
+* Email (@ccc): debora.sabrina.oliveira.pereira@ccc.ufcg.edu.br
+* Matrícula: 123111211
 
 # Roteiro: isAVL
 
